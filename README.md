@@ -1,6 +1,6 @@
 # Tarifka
 
-Soru: 
+## Görev
 
 Bir yemek tarifi uygulamasına ihtiyacımız var.
 
@@ -16,7 +16,7 @@ API Linki: https://www.themealdb.com/api.php
 
 Kolaylıklar :)
 
-Ekran Görüntüleri:
+## Ekran Görüntüleri
 
 ![Screenshot_1687246723](https://github.com/yusufcandmrz/tarifka/assets/93606208/19e2ac0c-9939-417b-9304-58101d5a5311)
 ![Screenshot_1687246729](https://github.com/yusufcandmrz/tarifka/assets/93606208/4259cd8d-fba6-40ea-a48a-c8e36ce731c8)
